@@ -3,8 +3,8 @@
 *Arsenal Media LLC*  
 [Arsenal Pay processing center](https://arsenalpay.ru/)
 
-*Плагин тестировался для VirtueMart 1.1.9 и Joomla 1.5.23*
-*Но данные версии не безопасны и больше не поддерживаются,  
+*Плагин тестировался для VirtueMart 1.1.9 и Joomla 1.5.23  
+Но данные версии не безопасны и больше не поддерживаются,  
 поэтому советуем [обновиться](https://docs.joomla.org/Joomla_1.5_to_3.x_Step_by_Step_Migration) и использовать [плагин опаты для более новых версий](https://github.com/ArsenalPay/VirtueMart-ArsenalPay-CMS)*
 
 ## Source
